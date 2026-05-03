@@ -1,16 +1,20 @@
-## Hi there 👋
+# Paenéach Hoover 👋
 
-<!--
-**hoover-dev/hoover-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en L1 Informatique à l'ESAG-NDE, Lomé, Togo.
+Passionné par le développement web et les applications PHP.
 
-Here are some ideas to get you started:
+## 🛠️ Stack technique
+- **Langages :** PHP · HTML · CSS · C/C++
+- **Frameworks :** Laravel (en apprentissage)
+- **Outils :** Git · GitHub · MySQL · XAMPP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets
+- 🗳️ [App Election PHP](https://github.com/hoover-dev/app-election-php) — Plateforme de gestion des élections municipales (MVC)
+- 💻 [Exercices Git](https://github.com/hoover-dev/exercices-git) — Pratique des commandes Git essentielles
+
+## 🎯 Objectif
+Devenir développeur full-stack · Toronto, Canada 🇨🇦
+
+## 📫 Contact
+- 📧 joebden147@gmail.com
+- 📍 Lomé, Togo 🇹🇬
