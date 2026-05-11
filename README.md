@@ -11,6 +11,7 @@ Passionné par le développement web et les applications PHP.
 ## 🚀 Projets
 - 🗳️ [App Election PHP](https://github.com/hoover-dev/app-election-php) — Plateforme de gestion des élections municipales (MVC)
 - 💻 [Exercices Git](https://github.com/hoover-dev/exercices-git) — Pratique des commandes Git essentielles
+- - 🧮 [Calculatrice JS](https://hoover-dev.github.io/exercices-git/calculatrice/) — Application interactive HTML+CSS+JS déployée en ligne
 
 ## 🎯 Objectif
 Devenir développeur full-stack · Toronto, Canada 🇨🇦
