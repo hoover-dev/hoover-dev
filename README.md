@@ -1,4 +1,4 @@
-# Paenéach Hoover 👋
+# Paenéach Hoover 
 
 Étudiant en L1 Informatique à l'ESAG-NDE, Lomé, Togo.
 Passionné par le développement web et les applications PHP.
